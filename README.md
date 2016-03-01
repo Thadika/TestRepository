@@ -1,2 +1,4 @@
-# ayubowan
-The Hello world Repository(My 1st repository)
+# Ayubowan
+This is My First Repository on Github
+This is a simple java program.
+Just prints "Ayubowan!" into the terminal/CMD
